@@ -12,7 +12,8 @@
    "license": "ISC",
    "dependencies": {
       "moment": "^2.29.1",
-      "netlify-lambda": "^1.6.3"
-      "elliptic": "^6.5.4"
+      "netlify-lambda": "^1.6.3",
+      "elliptic": "^6.5.4",
+      "ssri": "^8.0.1"
    }
 }
