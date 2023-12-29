@@ -14,6 +14,6 @@
       "moment": "^2.29.4",
       "netlify-lambda": "^2.0.16",
       "elliptic": "^6.5.4",
-      "ssri": "^8.0.1"
+      "ssri": "^10.0.5"
    }
 }
