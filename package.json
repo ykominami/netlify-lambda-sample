@@ -13,7 +13,7 @@
    "dependencies": {
       "moment": "^2.30.1",
       "netlify-lambda": "^2.0.16",
-      "elliptic": "^6.5.5",
+      "elliptic": "^6.5.7",
       "ssri": "^10.0.5"
    }
 }
